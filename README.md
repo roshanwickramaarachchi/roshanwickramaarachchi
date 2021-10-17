@@ -10,7 +10,6 @@ I'm roshan-wickramaarachchi. An undergraduate at Sabaragamuwa Universty of Sri L
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/roshanwickramaarachchi)
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/roshanwickramaarachchi)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/roshanwickramaarachchi)
 
 📹 I'm a video editor and a content creator. See my work on
 
