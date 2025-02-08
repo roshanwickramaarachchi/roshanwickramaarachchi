@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm roshan-wickramaarachchi. An undergraduate at Sabaragamuwa Universty of Sri Lanka.
+I'm roshan-wickramaarachchi.
 
 💻 Some of my things
 
