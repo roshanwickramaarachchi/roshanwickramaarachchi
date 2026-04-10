@@ -19,7 +19,6 @@ I'm roshan-wickramaarachchi.
 😉 Find me on
 
 <a href="https://www.linkedin.com/in/roshan-wickramaarachchi-13b2aa168/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/roshan.wickramaarachchi.94/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://stackoverflow.com/users/12298117/roshan-wickramaarachchi" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
 
 
