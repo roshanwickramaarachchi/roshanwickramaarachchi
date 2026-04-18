@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm roshan-wickramaarachchi.
+I'm Roshan.
 
 💻 Some of my things
 
